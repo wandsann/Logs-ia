@@ -1,0 +1,21 @@
+
+> frontend@0.0.0 build
+> tsc -b && vite build
+
+src/components/ErrorBoundary.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Sidebar.tsx(41,12): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(props: { component: ElementType<any, keyof IntrinsicElements>; } & ListItemOwnProps & CommonProps & Omit<any, "components" | ... 15 more ... | "secondaryAction">): Element | null', gave the following error.
+    Property 'component' is missing in type '{ children: Element[]; button: true; key: string; onClick: () => void | Promise<void>; }' but required in type '{ component: ElementType<any, keyof IntrinsicElements>; }'.
+  Overload 2 of 2, '(props: DefaultComponentProps<ListItemTypeMap<{}, "li">>): Element | null', gave the following error.
+    Type '{ children: Element[]; button: true; key: string; onClick: () => void | Promise<void>; }' is not assignable to type 'IntrinsicAttributes & ListItemOwnProps & CommonProps & Omit<DetailedHTMLProps<LiHTMLAttributes<HTMLLIElement>, HTMLLIElement>, "components" | ... 15 more ... | "secondaryAction">'.
+      Property 'button' does not exist on type 'IntrinsicAttributes & ListItemOwnProps & CommonProps & Omit<DetailedHTMLProps<LiHTMLAttributes<HTMLLIElement>, HTMLLIElement>, "components" | ... 15 more ... | "secondaryAction">'.
+src/components/Sidebar.tsx(49,10): error TS2769: No overload matches this call.
+  Overload 1 of 2, '(props: { component: ElementType<any, keyof IntrinsicElements>; } & ListItemOwnProps & CommonProps & Omit<any, "components" | ... 15 more ... | "secondaryAction">): Element | null', gave the following error.
+    Property 'component' is missing in type '{ children: Element[]; button: true; onClick: () => void; }' but required in type '{ component: ElementType<any, keyof IntrinsicElements>; }'.
+  Overload 2 of 2, '(props: DefaultComponentProps<ListItemTypeMap<{}, "li">>): Element | null', gave the following error.
+    Type '{ children: Element[]; button: true; onClick: () => void; }' is not assignable to type 'IntrinsicAttributes & ListItemOwnProps & CommonProps & Omit<DetailedHTMLProps<LiHTMLAttributes<HTMLLIElement>, HTMLLIElement>, "components" | ... 15 more ... | "secondaryAction">'.
+      Property 'button' does not exist on type 'IntrinsicAttributes & ListItemOwnProps & CommonProps & Omit<DetailedHTMLProps<LiHTMLAttributes<HTMLLIElement>, HTMLLIElement>, "components" | ... 15 more ... | "secondaryAction">'.
+src/pages/AppointmentBooking.tsx(2,46): error TS6133: 'MenuItem' is declared but its value is never read.
+src/pages/HospitalSearch.tsx(19,31): error TS2304: Cannot find name 'google'.
+src/pages/HospitalSearch.tsx(32,11): error TS2304: Cannot find name 'google'.
+src/pages/Telemedicine.tsx(3,1): error TS6133: 'adapter' is declared but its value is never read.
