@@ -1,0 +1,5 @@
+total 16
+-rw-r--r-- 1 root root 3165 Apr 14 10:12 execution-log.txt
+-rw-r--r-- 1 root root   83 Apr 14 10:50 package-lock.json
+drwxr-xr-x 3 root root 4096 Apr 14 11:54 saude-conectada-logs
+drwx------ 3 root root 4096 Apr 14 10:02 snap

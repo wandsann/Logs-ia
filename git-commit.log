@@ -1,0 +1,11 @@
+[main c4151bc] Logs após configuração do app
+ 9 files changed, 228 insertions(+)
+ create mode 100644 certbot.log
+ create mode 100644 netstat-after-clean.log
+ create mode 100644 nginx-status.log
+ create mode 100644 nginx-test.log
+ create mode 100644 npm-build.log
+ create mode 100644 npm-install.log
+ create mode 100644 pm2-list-after-app-start.log
+ create mode 100644 pm2-start.log
+ create mode 100644 ps-aux-after-clean.log
