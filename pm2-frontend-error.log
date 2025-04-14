@@ -7,3 +7,18 @@
 0|saude-conectada-frontend  |  INFO  Accepting connections at http://localhost:5173
 0|saude-conectada-frontend  |  INFO  Gracefully shutting down. Please wait...
 1|saude-conectada-frontend  |  INFO  Accepting connections at http://localhost:5173
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:32:56 PM 187.255.43.113 GET /
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:32:56 PM 187.255.43.113 Returned 200 in 21 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 GET /
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 Returned 200 in 2 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 GET /assets/index-9_sxcfan.js
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 Returned 200 in 5 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 GET /assets/index-D8b4DHJx.css
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:00 PM 187.255.43.113 Returned 200 in 3 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:01 PM 187.255.43.113 GET /vite.svg
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:01 PM 187.255.43.113 GET /assets/react-CHdo91hT.svg
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:01 PM 187.255.43.113 Returned 200 in 8 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:01 PM 187.255.43.113 Returned 200 in 13 ms
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:05 PM 187.255.43.113 GET /vite.svg
+1|saude-conectada-frontend  |  HTTP  4/14/2025 2:33:05 PM 187.255.43.113 Returned 304 in 3 ms
+1|saude-conectada-frontend  |  INFO  Gracefully shutting down. Please wait...
