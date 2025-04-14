@@ -2,6 +2,7 @@
 /root/.pm2/logs/saude-conectada-frontend-error.log last 50 lines:
 /root/.pm2/logs/saude-conectada-frontend-out.log last 50 lines:
 0|saude-co |  INFO  Accepting connections at http://localhost:5173
+0|saude-co | 
+0|saude-co |  INFO  Gracefully shutting down. Please wait...
 
-0|saude-conectada-frontend  |  INFO  Gracefully shutting down. Please wait...
 0|saude-conectada-frontend  |  INFO  Accepting connections at http://localhost:5173
