@@ -12,3 +12,147 @@
 0|healthconnectpro  |  INFO  Gracefully shutting down. Please wait...
 0|healthconnectpro  |  INFO  Accepting connections at http://localhost:3000
 0|healthconnectpro  |  INFO  Gracefully shutting down. Please wait...
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }
+0|healthconnectpro  | ArgError: unknown or unexpected option: --host
+0|healthconnectpro  |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthconnectpro  |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthconnectpro  |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthconnectpro  |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthconnectpro  |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthconnectpro  |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthconnectpro  |   code: 'ARG_UNKNOWN_OPTION'
+0|healthconnectpro  | }

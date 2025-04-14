@@ -1,0 +1,68 @@
+[TAILING] Tailing last 50 lines for [healthconnectpro] process (change the value with --lines option)
+/root/.pm2/logs/healthconnectpro-out.log last 50 lines:
+0|healthco |  INFO  Accepting connections at http://localhost:3000
+0|healthco |  HTTP  4/14/2025 2:31:23 PM ::1 HEAD /
+0|healthco |  HTTP  4/14/2025 2:31:23 PM ::1 Returned 404 in 66 ms
+0|healthco |  HTTP  4/14/2025 2:31:23 PM 69.62.98.30 HEAD /
+0|healthco |  HTTP  4/14/2025 2:31:23 PM 69.62.98.30 Returned 404 in 4 ms
+0|healthco | 
+0|healthco |  INFO  Gracefully shutting down. Please wait...
+0|healthco |  INFO  Accepting connections at http://localhost:3000
+0|healthco | 
+0|healthco |  INFO  Gracefully shutting down. Please wait...
+0|healthco |  INFO  Accepting connections at http://localhost:3000
+0|healthco | 
+0|healthco |  INFO  Gracefully shutting down. Please wait...
+
+/root/.pm2/logs/healthconnectpro-error.log last 50 lines:
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+0|healthco | ArgError: unknown or unexpected option: --host
+0|healthco |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthco |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthco |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+0|healthco | ArgError: unknown or unexpected option: --host
+0|healthco |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthco |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthco |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+0|healthco | ArgError: unknown or unexpected option: --host
+0|healthco |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthco |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthco |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+0|healthco | ArgError: unknown or unexpected option: --host
+0|healthco |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthco |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthco |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+0|healthco | ArgError: unknown or unexpected option: --host
+0|healthco |     at arg (/usr/lib/node_modules/serve/node_modules/arg/index.js:132:13)
+0|healthco |     at parseArguments (file:///usr/lib/node_modules/serve/build/main.js:410:28)
+0|healthco |     at file:///usr/lib/node_modules/serve/build/main.js:499:40
+0|healthco |     at ModuleJob.run (node:internal/modules/esm/module_job:263:25)
+0|healthco |     at async ModuleLoader.import (node:internal/modules/esm/loader:540:24)
+0|healthco |     at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5) {
+0|healthco |   code: 'ARG_UNKNOWN_OPTION'
+0|healthco | }
+
