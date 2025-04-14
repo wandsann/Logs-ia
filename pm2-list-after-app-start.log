@@ -1,0 +1,29 @@
+┌────┬────────────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name               │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ saude-conectada    │ default     │ N/A     │ fork    │ 1370025  │ 0s     │ 0    │ online    │ 0%       │ 60.0mb   │ root     │ disabled │
+└────┴────────────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[TAILING] Tailing last 15 lines for [saude-conectada] process (change the value with --lines option)
+/root/.pm2/logs/saude-conectada-error.log last 15 lines:
+/root/.pm2/logs/saude-conectada-out.log last 15 lines:
+0|saude-co |  INFO  Gracefully shutting down. Please wait...
+0|saude-co |  INFO  Accepting connections at http://localhost:5173
+0|saude-co |  HTTP  4/14/2025 9:30:55 AM 187.255.43.113 GET /
+0|saude-co |  HTTP  4/14/2025 9:30:55 AM 187.255.43.113 Returned 404 in 43 ms
+0|saude-co |  HTTP  4/14/2025 9:30:55 AM 187.255.43.113 GET /favicon.ico
+0|saude-co |  HTTP  4/14/2025 9:30:55 AM 187.255.43.113 Returned 404 in 2 ms
+0|saude-co | 
+0|saude-co |  INFO  Gracefully shutting down. Please wait...
+0|saude-co |  INFO  Accepting connections at http://localhost:5173
+0|saude-co |  HTTP  4/14/2025 9:52:50 AM 187.255.43.113 GET /
+0|saude-co |  HTTP  4/14/2025 9:52:50 AM 187.255.43.113 Returned 404 in 16 ms
+0|saude-co |  HTTP  4/14/2025 9:52:52 AM 187.255.43.113 GET /
+0|saude-co |  HTTP  4/14/2025 9:52:52 AM 187.255.43.113 Returned 404 in 2 ms
+0|saude-co | 
+0|saude-co |  INFO  Gracefully shutting down. Please wait...
+
+0|saude-conectada  |  INFO  Accepting connections at http://localhost:5173
+0|saude-conectada  |  HTTP  4/14/2025 10:50:29 AM 187.255.43.113 GET /
+0|saude-conectada  |  HTTP  4/14/2025 10:50:29 AM 187.255.43.113 Returned 404 in 16 ms
+0|saude-conectada  |  HTTP  4/14/2025 10:50:35 AM 187.255.43.113 GET /favicon.ico
+0|saude-conectada  |  HTTP  4/14/2025 10:50:35 AM 187.255.43.113 Returned 404 in 3 ms

@@ -1,0 +1,32 @@
+● nginx.service - nginx - high performance web server
+     Loaded: loaded (/usr/lib/systemd/system/nginx.service; enabled; preset: enabled)
+     Active: active (running) since Mon 2025-04-14 10:51:14 UTC; 11ms ago
+       Docs: https://nginx.org/en/docs/
+    Process: 1371232 ExecStart=/usr/sbin/nginx -c ${CONFFILE} (code=exited, status=0/SUCCESS)
+   Main PID: 1371233 (nginx)
+      Tasks: 3 (limit: 9486)
+     Memory: 2.9M (peak: 3.0M)
+        CPU: 16ms
+     CGroup: /system.slice/nginx.service
+             ├─1371233 "nginx: master process /usr/sbin/nginx -c /etc/nginx/nginx.conf"
+             ├─1371234 "nginx: worker process"
+             └─1371235 "nginx: worker process"
+
+Apr 14 10:51:14 panel.syshost.online systemd[1]: Starting nginx.service - nginx - high performance web server...
+Apr 14 10:51:14 panel.syshost.online systemd[1]: Started nginx.service - nginx - high performance web server.
+● nginx.service - nginx - high performance web server
+     Loaded: loaded (/usr/lib/systemd/system/nginx.service; enabled; preset: enabled)
+     Active: active (running) since Mon 2025-04-14 10:51:19 UTC; 8ms ago
+       Docs: https://nginx.org/en/docs/
+    Process: 1371398 ExecStart=/usr/sbin/nginx -c ${CONFFILE} (code=exited, status=0/SUCCESS)
+   Main PID: 1371399 (nginx)
+      Tasks: 3 (limit: 9486)
+     Memory: 2.9M (peak: 3.0M)
+        CPU: 14ms
+     CGroup: /system.slice/nginx.service
+             ├─1371399 "nginx: master process /usr/sbin/nginx -c /etc/nginx/nginx.conf"
+             ├─1371400 "nginx: worker process"
+             └─1371401 "nginx: worker process"
+
+Apr 14 10:51:19 panel.syshost.online systemd[1]: Starting nginx.service - nginx - high performance web server...
+Apr 14 10:51:19 panel.syshost.online systemd[1]: Started nginx.service - nginx - high performance web server.

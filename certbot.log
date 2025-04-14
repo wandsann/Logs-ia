@@ -1,0 +1,12 @@
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+Missing command line flag or config entry for this setting:
+You have an existing certificate that contains a portion of the domains you requested (ref: /etc/letsencrypt/renewal/app.syshost.online.conf)
+
+It contains these names: app.syshost.online
+
+You requested these names for the new certificate: app.syshost.online, app1.syshost.online.
+
+Do you want to expand and replace this existing certificate with the new certificate?
+
+(You can set this with the --expand flag)
+Ask for help or search for solutions at https://community.letsencrypt.org. See the logfile /var/log/letsencrypt/letsencrypt.log or re-run Certbot with -v for more details.
