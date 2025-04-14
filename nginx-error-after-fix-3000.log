@@ -1,0 +1,40 @@
+2025/04/14 12:30:30 [notice] 1376452#1376452: using the "epoll" event method
+2025/04/14 12:30:30 [notice] 1376452#1376452: nginx/1.27.4
+2025/04/14 12:30:30 [notice] 1376452#1376452: built by gcc 13.2.0 (Ubuntu 13.2.0-23ubuntu4) 
+2025/04/14 12:30:30 [notice] 1376452#1376452: OS: Linux 6.8.0-57-generic
+2025/04/14 12:30:30 [notice] 1376452#1376452: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/04/14 12:30:30 [notice] 1376453#1376453: start worker processes
+2025/04/14 12:30:30 [notice] 1376453#1376453: start worker process 1376454
+2025/04/14 12:30:30 [notice] 1376453#1376453: start worker process 1376455
+2025/04/14 14:06:35 [error] 1376454#1376454: *5 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 187.255.43.113, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "app.syshost.online", referrer: "http://app.syshost.online/"
+2025/04/14 14:16:34 [error] 1376454#1376454: *7 open() "/usr/share/nginx/html/wsman" failed (2: No such file or directory), client: 23.239.3.178, server: localhost, request: "POST /wsman HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:16:36 [error] 1376454#1376454: *10 open() "/usr/share/nginx/html/auth.html" failed (2: No such file or directory), client: 146.190.66.68, server: localhost, request: "GET /auth.html HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:16:36 [error] 1376454#1376454: *12 open() "/usr/share/nginx/html/auth1.html" failed (2: No such file or directory), client: 146.190.66.68, server: localhost, request: "GET /auth1.html HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:16:36 [error] 1376454#1376454: *13 open() "/usr/share/nginx/html/sslvpnLogin.html" failed (2: No such file or directory), client: 146.190.66.68, server: localhost, request: "GET /sslvpnLogin.html HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:16:36 [error] 1376454#1376454: *14 open() "/usr/share/nginx/html/api/sonicos/auth" failed (2: No such file or directory), client: 146.190.66.68, server: localhost, request: "GET /api/sonicos/auth HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:16:36 [error] 1376454#1376454: *15 open() "/usr/share/nginx/html/api/sonicos/tfa" failed (2: No such file or directory), client: 146.190.66.68, server: localhost, request: "GET /api/sonicos/tfa HTTP/1.1", host: "69.62.98.30:80"
+2025/04/14 14:21:02 [error] 1376454#1376454: *16 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 165.22.133.50, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "69.62.98.30"
+2025/04/14 14:32:41 [notice] 1376454#1376454: signal 15 (SIGTERM) received from 1, exiting
+2025/04/14 14:32:41 [notice] 1376454#1376454: exiting
+2025/04/14 14:32:41 [notice] 1376453#1376453: signal 15 (SIGTERM) received from 1381991, exiting
+2025/04/14 14:32:41 [notice] 1376453#1376453: signal 15 (SIGTERM) received from 1, exiting
+2025/04/14 14:32:41 [notice] 1376455#1376455: signal 15 (SIGTERM) received from 1, exiting
+2025/04/14 14:32:41 [notice] 1376455#1376455: exiting
+2025/04/14 14:32:41 [notice] 1376454#1376454: exit
+2025/04/14 14:32:41 [notice] 1376455#1376455: exit
+2025/04/14 14:32:41 [notice] 1376453#1376453: signal 17 (SIGCHLD) received from 1376455
+2025/04/14 14:32:41 [notice] 1376453#1376453: worker process 1376455 exited with code 0
+2025/04/14 14:32:41 [notice] 1376453#1376453: worker process 1376454 exited with code 0
+2025/04/14 14:32:41 [notice] 1376453#1376453: exit
+2025/04/14 14:32:41 [notice] 1381993#1381993: using the "epoll" event method
+2025/04/14 14:32:41 [notice] 1381993#1381993: nginx/1.27.4
+2025/04/14 14:32:41 [notice] 1381993#1381993: built by gcc 13.2.0 (Ubuntu 13.2.0-23ubuntu4) 
+2025/04/14 14:32:41 [notice] 1381993#1381993: OS: Linux 6.8.0-57-generic
+2025/04/14 14:32:41 [notice] 1381993#1381993: getrlimit(RLIMIT_NOFILE): 1024:524288
+2025/04/14 14:32:41 [notice] 1381994#1381994: start worker processes
+2025/04/14 14:32:41 [notice] 1381994#1381994: start worker process 1381995
+2025/04/14 14:32:41 [notice] 1381994#1381994: start worker process 1381996
+2025/04/14 14:47:24 [error] 1381996#1381996: *3 open() "/usr/share/nginx/html/3000" failed (2: No such file or directory), client: 189.68.51.24, server: localhost, request: "GET /3000 HTTP/1.1", host: "69.62.98.30"
+2025/04/14 14:47:24 [error] 1381996#1381996: *3 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 189.68.51.24, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "69.62.98.30", referrer: "http://69.62.98.30/3000"
+2025/04/14 14:47:41 [error] 1381996#1381996: *3 open() "/usr/share/nginx/html/5157" failed (2: No such file or directory), client: 189.68.51.24, server: localhost, request: "GET /5157 HTTP/1.1", host: "69.62.98.30"
+2025/04/14 14:49:11 [error] 1381996#1381996: *6 open() "/usr/share/nginx/html/3000" failed (2: No such file or directory), client: 189.68.51.24, server: localhost, request: "GET /3000 HTTP/1.1", host: "69.62.98.30"
