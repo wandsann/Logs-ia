@@ -1,0 +1,20 @@
+Projeto HealthConnectPro baixado, extraído e renomeado para app: Mon Apr 14 14:18:50 UTC 2025
+total 940
+drwxr-xr-x 7 root root   4096 Apr 14 14:18 .
+drwxr-xr-x 4 root root   4096 Apr 14 14:18 ..
+drwxr-xr-x 8 root root   4096 Apr 14 13:47 .git
+-rw-r--r-- 1 root root     67 Apr 14 12:02 .gitignore
+-rw-r--r-- 1 root root    803 Apr 14 12:17 .replit
+drwxr-xr-x 2 root root   4096 Apr 14 13:43 attached_assets
+drwxr-xr-x 3 root root   4096 Apr 14 12:08 client
+-rw-r--r-- 1 root root    325 Apr 14 12:02 drizzle.config.ts
+-rw-r--r-- 1 root root 544401 Apr 14 11:33 generated-icon.png
+-rw-r--r-- 1 root root 351634 Apr 14 13:31 package-lock.json
+-rw-r--r-- 1 root root   3547 Apr 14 13:31 package.json
+-rw-r--r-- 1 root root     80 Apr 14 12:02 postcss.config.js
+drwxr-xr-x 2 root root   4096 Apr 14 13:44 server
+drwxr-xr-x 2 root root   4096 Apr 14 13:46 shared
+-rw-r--r-- 1 root root   2787 Apr 14 12:02 tailwind.config.ts
+-rw-r--r-- 1 root root    110 Apr 14 12:08 theme.json
+-rw-r--r-- 1 root root    657 Apr 14 12:02 tsconfig.json
+-rw-r--r-- 1 root root    978 Apr 14 12:02 vite.config.ts
